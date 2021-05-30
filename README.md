@@ -123,7 +123,7 @@ To easily add CSS and JS customizations we prepared blank files for you in `/css
 
 ## Credits
 
-All images, that you can see on the demo site available within the theme package thanks to the Unsplash license https://unsplash.com/license.
+All images, that you can see on the demo site available within the theme package thanks to the Unsplash license [https://unsplash.com/license](https://unsplash.com/license).
 
 ## Thank You!
 
