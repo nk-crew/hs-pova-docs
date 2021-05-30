@@ -1,9 +1,19 @@
 ---
 ---
 
+// Custom variables
 $section-headings-color: #000;
+$body-text-color: #36393a;
+$code-bg-color: #efefef;
+$code-text-color: #efefef;
 
+// Default styles
 @import "{{ site.theme }}";
+
+// Global
+body {
+  line-height: 1.65;
+}
 
 // Header
 .page-header {
@@ -29,33 +39,86 @@ $section-headings-color: #000;
   .page-header {
     padding-bottom: 6rem;
   }
-  .main-content {
-    padding-top: 6rem;
-    max-width: 75rem;
-  }
 }
 
 // Content
 .main-content {
   display: grid;
-  grid-gap: 30px;
+  grid-gap: 60px;
   grid-template-columns: 1fr 200px;
-  grid-template-areas:
-      "text toc"
-      "footer footer";
-}
-.main-content__text {
-  grid-area: text;
-}
-.main-content__toc {
-  grid-area: toc;
-  
-  .toc-list {
-    position: sticky;
-    top: 20px;
-    padding-left: 30px;
+  grid-template-areas: "text toc";
+
+  &__text {
+    grid-area: text;
   }
-}
-.site-footer {
-  grid-area: footer;
+  
+  // TOC
+  &__toc {
+    grid-area: toc;
+
+    .toc-list {
+      position: sticky;
+      top: 20px;
+      padding-left: 20px;
+    }
+    .toc-list-item {
+      list-style: none;
+
+      > a {
+          display: block;
+          padding: .2rem 0;
+      }
+    }
+    a.is-active-link {
+        font-weight: inherit;
+        color: $body-link-color;
+    }
+    .is-active-link::before {;
+        background-color: $body-link-color;
+    }
+  }
+  
+  // Reponsive settings
+  @media screen and (min-width: #{$large-breakpoint}) {
+    padding-top: 6rem;
+    grid-template-columns: 100%;
+    grid-template-areas:
+        "toc"
+        "text";
+
+    .main-content__toc .toc-list {
+      position: relative;
+      overflow: hidden;
+    }
+  }
+  @media screen and (min-width: 77em) {
+    max-width: 75rem;
+  }
+  
+  // Content elements
+  p,
+  ul,
+  h1,
+  h2,
+  h3,
+  h4 {
+    margin-bottom: 2rem;
+  }
+
+  // Images
+  img {
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, .7), 0 0 0 1px rgba(0, 0, 0, .7);
+  }
+  
+  // Headings
+  h1,
+  h2 {
+    margin-top: 5rem;
+    font-size: 1.8rem;
+    font-weight: 600;
+  }
+  p img + img {
+      margin-top: 1.5rem;
+  }
 }
