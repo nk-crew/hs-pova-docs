@@ -1,4 +1,4 @@
-if (typeof tocbot !== 'undefined' {
+if (typeof tocbot !== 'undefined') {
   tocbot.init({
     tocSelector: '.main-content__toc',
     contentSelector: '.main-content__text',
