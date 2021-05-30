@@ -12,6 +12,11 @@ $section-headings-color: #000;
     max-width: 64rem;
     margin-left: auto;
     margin-right: auto;
+    line-height: 1.2;
+  }
+  
+  .project-tagline {
+    display: none;
   }
   
   .btn {
@@ -20,6 +25,9 @@ $section-headings-color: #000;
 }
 
 @media screen and (min-width: #{$large-breakpoint}) {
+  .page-header {
+    padding-bottom: 6rem;
+  }
   .main-content {
     padding-top: 6rem;
   }
