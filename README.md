@@ -6,6 +6,7 @@ Gallant – is a corporate HubSpot theme for creative modern businesses. Hope yo
 
 - [Demo Site](https://nkdev-19948095.hs-sites.com/gallant)
 - [Online Documentation](https://nk-crew.github.io/hs-gallant-docs/)
+- [Our Portfolio](https://1.envato.market/nk-portfolio)
 
 ## Installation
 
@@ -107,6 +108,14 @@ Once opened the global editor, you can set up navigation, social icons, etc...
 - From the second tab `Template`, select and apply the Gallant templates for the Blog post and Blog listing page
 
 ![image](https://user-images.githubusercontent.com/14810891/120104060-565c3400-c15b-11eb-8c3f-51f1e83c99aa.png)
+
+## Setup System Pages
+
+- Click Settings icon in right side of navbar
+- Click `Website > Pages > System Pages` and selsct the Gallant system pages
+
+![image](https://user-images.githubusercontent.com/14810891/120104290-61639400-c15c-11eb-995f-0a25f9fd9d8b.png)
+
 
 ## Custom CSS and JS
 
