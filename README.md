@@ -23,7 +23,7 @@ Gallant – is a corporate HubSpot theme for creative modern businesses. Hope yo
 ```
 - Gallant
 |- css
-|- Images
+|- images
 |- js
 |- modules
 |- templates
