@@ -79,8 +79,10 @@ body {
   }
   
   // Reponsive settings
-  @media screen and (max-width: #{$large-breakpoint}) {
+  @media screen and (min-width: #{$large-breakpoint}) {
     padding-top: 6rem;
+  }
+  @media screen and (max-width: #{$large-breakpoint}) {
     grid-template-columns: 100%;
     grid-template-areas:
         "toc"
