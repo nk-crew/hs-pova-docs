@@ -1,27 +1,27 @@
-## Khaki - HubSpot Theme
+## Harro - HubSpot Theme
 
-Thank you for purchasing Khaki!
+Thank you for purchasing Harro!
 
-Khaki – is a corporate HubSpot theme for creative modern businesses. Hope you’ll enjoy using Khaki as much as we enjoyed developing it.
+Harro – is a multipurpose HubSpot theme for any type of sites. Hope you’ll enjoy using Harro as much as we enjoyed developing it.
 
-- [Demo Site](https://nkdev-19948095.hs-sites.com/khaki)
-- [Online Documentation](https://nk-crew.github.io/hs-khaki-docs/)
+- [Demo Site](https://nkdev-19948095.hs-sites.com/harro)
+- [Online Documentation](https://nk-crew.github.io/hs-harro-docs/)
 - [Our Portfolio](https://1.envato.market/nk-portfolio)
 
 ## Installation
 
 - Download theme from Themeforest
 - Unzip that folder on your PC/Mac
-- Inside that folder, you will find a zip `khaki.zip` (this is the Hubspot theme)
+- Inside that folder, you will find a zip `harro.zip` (this is the Hubspot theme)
 - Go to your HubSpot dashboard, Click on the `settings icon` on the right top, then locate and click on `Website > Themes` from the left panel
 - Upload theme using the Top right corner `Upload` button
 
-![image](https://user-images.githubusercontent.com/14810891/122105816-e2d84900-ce21-11eb-9523-35749a5adf8c.png)
+![image](https://user-images.githubusercontent.com/14810891/122739944-2b618d80-d28c-11eb-9998-6e9948897c49.png)
 
 ## Theme Structure
 
 ```
-- khaki
+- harro
 |- css
 |- images
 |- js
@@ -35,29 +35,29 @@ Khaki – is a corporate HubSpot theme for creative modern businesses. Hope you�
 
 To edit your theme settings, you'll first need to [create a page with a theme template](https://knowledge.hubspot.com/website-pages/edit-content-in-pages-using-a-website-theme#create-a-new-page). The theme settings can be accessed within the `page editor` by clicking the `Design` tab on the left. Then click `Edit theme settings`.
 
-![image](https://user-images.githubusercontent.com/14810891/122105963-056a6200-ce22-11eb-8003-b136460d5fb8.png)
+![image](https://user-images.githubusercontent.com/14810891/122740073-49c78900-d28c-11eb-803c-b96597038e3a.png)
 
 Customizing colors, fonts, and spacing will set the default styles for all the elements on your page. If you want to edit specific details such as link colors, button colors, or default form colors, click `Edit` next to [More settings](https://knowledge.hubspot.com/website-pages/edit-your-global-theme-settings#more-settings) to view additional theme settings available for your templates.
 
-![image](https://user-images.githubusercontent.com/14810891/122106021-11eeba80-ce22-11eb-93a1-8bf6026b04c5.png)
+![image](https://user-images.githubusercontent.com/14810891/122740137-5b109580-d28c-11eb-9df2-f776560e0486.png)
 
 ## Theme Modules
 
-We prepared `25 custom modules` for Khaki theme, which you can use to build your pages.
+We prepared `25 custom modules` for Harro theme, which you can use to build your pages.
 
-![image](https://user-images.githubusercontent.com/14810891/122106057-1f0ba980-ce22-11eb-90ba-46fa62bd3edd.png)
+![image](https://user-images.githubusercontent.com/14810891/122740192-68c61b00-d28c-11eb-9f76-f2ec3712d2bc.png)
 
 ## Theme Templates
 
-Khaki theme comes with `15 predefined page templates`. You can use them to easily get started building your new page.
+Harro theme comes with `15 predefined page templates`. You can use them to easily get started building your new page.
 
-![image](https://user-images.githubusercontent.com/14810891/122106315-6e51da00-ce22-11eb-9902-13ce3d55b1bb.png)
+![image](https://user-images.githubusercontent.com/14810891/122740536-be9ac300-d28c-11eb-92bf-d780ebb64aa2.png)
 
 ## Setup Homepage
 
 1. Log in to Hubspot, from the top panel, go to `Marketing > Website > Website Pages`
 2. From the top right corner button, click `Create > Website page`
-3. On the next page, select the Khaki theme
+3. On the next page, select the Harro theme
 4. On the next page, select the Home template
 5. Make sure to address the new page with a name, eg `Homepage`
 6. Click `Create page` button
@@ -74,11 +74,11 @@ When you are on the page editing screen, you need to do the following to set up 
 - Click on `Contents > Website Header`
 - Click on the `Open in global content editor` button
 
-![image](https://user-images.githubusercontent.com/14810891/122106415-904b5c80-ce22-11eb-90a0-b1da19a43193.png)
+![image](https://user-images.githubusercontent.com/14810891/122740657-dbcf9180-d28c-11eb-9ceb-15e869a7354b.png)
 
 Once opened the global editor, you can set up your logo, navigation, social icons, etc...
 
-![image](https://user-images.githubusercontent.com/14810891/122106464-9e997880-ce22-11eb-9a02-655d4faa99e0.png)
+![image](https://user-images.githubusercontent.com/14810891/122740715-ea1dad80-d28c-11eb-9bcc-391c96871d0b.png)
 
 ## Setup Footer
 
@@ -87,11 +87,11 @@ When you are on the page editing screen, you need to do the following to set up 
 - Click on `Contents > Website Footer`
 - Click on the `Open in global content editor` button
 
-![image](https://user-images.githubusercontent.com/14810891/122106561-bffa6480-ce22-11eb-86ea-44ddd4cc3efe.png)
+![image](https://user-images.githubusercontent.com/14810891/122740803-028dc800-d28d-11eb-956d-152bc3a4f272.png)
 
 Once opened the global editor, you can set up navigation, social icons, etc...
 
-![image](https://user-images.githubusercontent.com/14810891/122106617-d3a5cb00-ce22-11eb-9eae-cf6c92e53848.png)
+![image](https://user-images.githubusercontent.com/14810891/122740864-120d1100-d28d-11eb-940e-510ee2e044e4.png)
 
 ## Setup Blog
 
@@ -105,14 +105,14 @@ Once opened the global editor, you can set up navigation, social icons, etc...
 
 - Click on the settings icon on the right top corner
 - From the left panel, `Locate Website > Blog`
-- From the second tab `Template`, select and apply the Khaki templates for the Blog post and Blog listing page
+- From the second tab `Template`, select and apply the Harro templates for the Blog post and Blog listing page
 
-![image](https://user-images.githubusercontent.com/14810891/120104060-565c3400-c15b-11eb-8c3f-51f1e83c99aa.png)
+![image](https://user-images.githubusercontent.com/14810891/122741028-3963de00-d28d-11eb-8f66-e31cd6fb60cb.png)
 
 ## Setup System Pages
 
 - Click Settings icon in right side of navbar
-- Click `Website > Pages > System Pages` and selsct the Khaki system pages
+- Click `Website > Pages > System Pages` and selsct the Harro system pages
 
 ![image](https://user-images.githubusercontent.com/14810891/120104290-61639400-c15c-11eb-995f-0a25f9fd9d8b.png)
 
@@ -127,7 +127,7 @@ All images, that you can see on the demo site available within the theme package
 
 ## Thank You!
 
-Thanks for using Khaki. We take great pride in creating solid themes and strongly believe in robust customer service practices. Should you have a question that neither this documentation file nor Themeforest’s forums can resolve and we’ll do our very best to assist you.
+Thanks for using Harro. We take great pride in creating solid themes and strongly believe in robust customer service practices. Should you have a question that neither this documentation file nor Themeforest’s forums can resolve and we’ll do our very best to assist you.
 
 If you like our theme, please take 1 minute to rate it on Themeforest:
 
