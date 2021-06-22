@@ -1,27 +1,27 @@
-## Redlens - HubSpot Theme
+## POVA - HubSpot Theme
 
-Thank you for purchasing Redlens!
+Thank you for purchasing POVA!
 
-Redlens – is a video blogger HubSpot theme. Hope you’ll enjoy using Redlens as much as we enjoyed developing it.
+POVA – is a beauty blog HubSpot theme. Hope you’ll enjoy using POVA as much as we enjoyed developing it.
 
-- [Demo Site](https://nkdev-19948095.hs-sites.com/redlens)
-- [Online Documentation](https://nk-crew.github.io/hs-redlens-docs/)
+- [Demo Site](https://nkdev-19948095.hs-sites.com/pova)
+- [Online Documentation](https://nk-crew.github.io/hs-pova-docs/)
 - [Our Portfolio](https://1.envato.market/nk-portfolio)
 
 ## Installation
 
 - Download theme from Themeforest
 - Unzip that folder on your PC/Mac
-- Inside that folder, you will find a zip `redlens.zip` (this is the Hubspot theme)
+- Inside that folder, you will find a zip `pova.zip` (this is the Hubspot theme)
 - Go to your HubSpot dashboard, Click on the `settings icon` on the right top, then locate and click on `Website > Themes` from the left panel
 - Upload theme using the Top right corner `Upload` button
 
-![image](https://user-images.githubusercontent.com/14810891/122917046-4274ae00-d366-11eb-970a-edaa51f488a2.png)
+![image](https://user-images.githubusercontent.com/14810891/122992876-4d9ffc00-d3af-11eb-957b-60bc1ace316b.png)
 
 ## Theme Structure
 
 ```
-- redlens
+- pova
 |- css
 |- images
 |- js
@@ -35,29 +35,29 @@ Redlens – is a video blogger HubSpot theme. Hope you’ll enjoy using Redlens 
 
 To edit your theme settings, you'll first need to [create a page with a theme template](https://knowledge.hubspot.com/website-pages/edit-content-in-pages-using-a-website-theme#create-a-new-page). The theme settings can be accessed within the `page editor` by clicking the `Design` tab on the left. Then click `Edit theme settings`.
 
-![image](https://user-images.githubusercontent.com/14810891/122917149-5b7d5f00-d366-11eb-9279-a8f7f7678dca.png)
+![image](https://user-images.githubusercontent.com/14810891/122992961-66101680-d3af-11eb-93fe-20996b898705.png)
 
 Customizing colors, fonts, and spacing will set the default styles for all the elements on your page. If you want to edit specific details such as link colors, button colors, or default form colors, click `Edit` next to [More settings](https://knowledge.hubspot.com/website-pages/edit-your-global-theme-settings#more-settings) to view additional theme settings available for your templates.
 
-![image](https://user-images.githubusercontent.com/14810891/122917187-6932e480-d366-11eb-9245-1087c583264c.png)
+![image](https://user-images.githubusercontent.com/14810891/122992996-70caab80-d3af-11eb-96a6-02c2d7134dda.png)
 
 ## Theme Modules
 
-We prepared `25 custom modules` for Redlens theme, which you can use to build your pages.
+We prepared `25 custom modules` for POVA theme, which you can use to build your pages.
 
-![image](https://user-images.githubusercontent.com/14810891/122917228-76e86a00-d366-11eb-822c-e4a3461b993b.png)
+![image](https://user-images.githubusercontent.com/14810891/122993041-7fb15e00-d3af-11eb-937c-fcca7a4afdf0.png)
 
 ## Theme Templates
 
-Redlens theme comes with `12 predefined page templates`. You can use them to easily get started building your new page.
+POVA theme comes with `12 predefined page templates`. You can use them to easily get started building your new page.
 
-![image](https://user-images.githubusercontent.com/14810891/122917402-a8f9cc00-d366-11eb-9b6c-f7d9cb9e8283.png)
+![image](https://user-images.githubusercontent.com/14810891/122993169-ac657580-d3af-11eb-9b25-dd227ed11d5f.png)
 
 ## Setup Homepage
 
 1. Log in to Hubspot, from the top panel, go to `Marketing > Website > Website Pages`
 2. From the top right corner button, click `Create > Website page`
-3. On the next page, select the Redlens theme
+3. On the next page, select the POVA theme
 4. On the next page, select the Home template
 5. Make sure to address the new page with a name, eg `Homepage`
 6. Click `Create page` button
@@ -74,11 +74,11 @@ When you are on the page editing screen, you need to do the following to set up 
 - Click on `Contents > Website Header`
 - Click on the `Open in global content editor` button
 
-![image](https://user-images.githubusercontent.com/14810891/122917492-c333aa00-d366-11eb-9995-405f99771135.png)
+![image](https://user-images.githubusercontent.com/14810891/122993256-c56e2680-d3af-11eb-92bb-2b94e1dbd867.png)
 
 Once opened the global editor, you can set up your logo, navigation, social icons, etc...
 
-![image](https://user-images.githubusercontent.com/14810891/122917579-d9416a80-d366-11eb-8d5a-c29807ad00e3.png)
+![image](https://user-images.githubusercontent.com/14810891/122993337-dc147d80-d3af-11eb-929f-a53c308ea30d.png)
 
 ## Setup Footer
 
@@ -87,11 +87,11 @@ When you are on the page editing screen, you need to do the following to set up 
 - Click on `Contents > Website Footer`
 - Click on the `Open in global content editor` button
 
-![image](https://user-images.githubusercontent.com/14810891/122917676-f1b18500-d366-11eb-94fc-1aaccf8a413a.png)
+![image](https://user-images.githubusercontent.com/14810891/122993388-edf62080-d3af-11eb-9189-451c1251a19b.png)
 
 Once opened the global editor, you can set up navigation, social icons, etc...
 
-![image](https://user-images.githubusercontent.com/14810891/122917719-ffffa100-d366-11eb-889c-f2c3692ffe20.png)
+![image](https://user-images.githubusercontent.com/14810891/122993445-ff3f2d00-d3af-11eb-8c7b-385b1009f877.png)
 
 ## Setup Blog
 
@@ -105,14 +105,14 @@ Once opened the global editor, you can set up navigation, social icons, etc...
 
 - Click on the settings icon on the right top corner
 - From the left panel, `Locate Website > Blog`
-- From the second tab `Template`, select and apply the Redlens templates for the Blog post and Blog listing page
+- From the second tab `Template`, select and apply the POVA templates for the Blog post and Blog listing page
 
-![image](https://user-images.githubusercontent.com/14810891/122917899-34735d00-d367-11eb-80f2-bfa81d07731d.png)
+![image](https://user-images.githubusercontent.com/14810891/122993968-9ad09d80-d3b0-11eb-9033-80f2db90204d.png)
 
 ## Setup System Pages
 
 - Click Settings icon in right side of navbar
-- Click `Website > Pages > System Pages` and selsct the Redlens system pages
+- Click `Website > Pages > System Pages` and selsct the POVA system pages
 
 ![image](https://user-images.githubusercontent.com/14810891/120104290-61639400-c15c-11eb-995f-0a25f9fd9d8b.png)
 
@@ -127,7 +127,7 @@ All images, that you can see on the demo site available within the theme package
 
 ## Thank You!
 
-Thanks for using Redlens. We take great pride in creating solid themes and strongly believe in robust customer service practices. Should you have a question that neither this documentation file nor Themeforest’s forums can resolve and we’ll do our very best to assist you.
+Thanks for using POVA. We take great pride in creating solid themes and strongly believe in robust customer service practices. Should you have a question that neither this documentation file nor Themeforest’s forums can resolve and we’ll do our very best to assist you.
 
 If you like our theme, please take 1 minute to rate it on Themeforest:
 
